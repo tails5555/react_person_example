@@ -1,0 +1,10 @@
+div.PersonForm input {
+  margin: 5px;
+}
+div.PersonForm button {
+  margin: 5px;
+}
+div.PersonForm label {
+  display: inline-block;
+  width: 40px;
+}

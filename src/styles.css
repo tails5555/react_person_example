@@ -1,0 +1,16 @@
+table {
+  border-collapse: collapse;
+  margin-bottom: 5px;
+}
+td,
+th {
+  border: 1px solid black;
+  padding: 5px;
+}
+thead th {
+  background-color: #eee;
+}
+tr.clickable:hover {
+  cursor: pointer;
+  background-color: #ffd;
+}
